@@ -8,7 +8,7 @@ body{
 header{
 
     display: flex;
-    background-color: black(210, 146, 205);
+    background-color: black;
     justify-content: space-between;
     padding: 20px;
 }
