@@ -1,0 +1,14 @@
+body{
+
+
+    background-color: blue;
+
+}
+
+header{
+
+    display: flex;
+    background-color: black(210, 146, 205);
+    justify-content: space-between;
+    padding: 20px;
+}
